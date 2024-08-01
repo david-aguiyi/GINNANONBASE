@@ -72,6 +72,7 @@ body {
 .memory {
     max-width: 800px;
     height: auto;
+    margin-top: 2rem;
     border: 5px solid white;
     /* white border */
     border-radius: 15px;
@@ -171,6 +172,16 @@ h4 {
 
 .bluestop {
     color: black;
+}
+
+.btn{
+    font-size: 1.4rem;
+    font-weight: 700;
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    color: #138cff;
 }
 
 .meme{
