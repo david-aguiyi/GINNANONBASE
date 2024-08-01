@@ -176,6 +176,7 @@ h4 {
 
 .btn{
     font-size: 1.4rem;
+    outline:none;
     font-weight: 700;
     background-color: black;
     width: 200px;
